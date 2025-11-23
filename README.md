@@ -153,8 +153,4 @@ Kaggle — Agents for Good challenge
 
 5-Day AI Agents Intensive — Architecture inspiration
 
-All cancer patients and caregivers 💛
 
-💬 Questions?
-
-Feel free to open an issue or ask in the Kaggle comments.
